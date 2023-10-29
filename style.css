@@ -1,0 +1,32 @@
+#quote
+{
+  font-family: 'Libre Baskerville', serif;
+  background-color:black;
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  font-style: normal;
+  margin-top:10px;
+}
+a
+{
+  color: white;
+  font-style: normal;
+  text-decoration: none;
+
+}
+html{
+  background-color: black;
+}
+
+img
+{
+  size: 100px;
+}
+#poster
+{
+  margin-left:480px;
+  border: 1px solid white;
+  padding-right: 0px;
+  width: 500px;
+}
